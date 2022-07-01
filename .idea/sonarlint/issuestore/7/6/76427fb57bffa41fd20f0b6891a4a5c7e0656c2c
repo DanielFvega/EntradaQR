@@ -1,0 +1,27 @@
+
+B
+java:S1659"-Declare "carritoINVITADO" on a separate line.(ß†À
+t
+java:S1450"^Remove the "mCountDownTimer" field and declare it as a local variable in the relevant methods.(—¿í¿
+E
+java:S1874,"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ
+—
+java:S1186a"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûßãŽ
+K
+java:S1068"5Remove this unused "mButtonStartPause" private field.(™ÁÔ¾
+E
+java:S1068"0Remove this unused "mButtonReset" private field.(¿†¡5
+I
+java:S1068"3Remove this unused "mCountDownTimer" private field.(—¿í¿
+C
+java:S16040"(Make this anonymous inner class a lambda(¯½ìôÿÿÿÿÿ
+>
+java:S1604,"(Make this anonymous inner class a lambda(„ÑñŒ
+C
+java:S1604B"(Make this anonymous inner class a lambda(ŒåÜÍùÿÿÿÿ
+>
+java:S1604;"(Make this anonymous inner class a lambda(«¢ÁÌ
+C
+java:S1604X"(Make this anonymous inner class a lambda(•²Ê¸ûÿÿÿÿ
+C
+java:S1604`"(Make this anonymous inner class a lambda(ÓŠÆ¿ÿÿÿÿÿ

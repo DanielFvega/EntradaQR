@@ -1,0 +1,38 @@
+
+i	java:S116)"TRename this field "tv_Nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ğ££
+f	java:S116)"QRename this field "NUMERO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ğ££
+k	java:S116*"VRename this field "bt_download" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ˆ¡
+:
+java:S1659("%Declare "carrito" on a separate line.(îÓ÷)
+:
+java:S1659)"$Declare "NUMERO" on a separate line.(÷ğ££
+k
+java:S1450)"URemove the "NUMERO" field and declare it as a local variable in the relevant methods.(÷ğ££
+p
+java:S1450*"ZRemove the "bt_download" field and declare it as a local variable in the relevant methods.(²ˆ¡
+k
+java:S1450("VRemove the "carrito" field and declare it as a local variable in the relevant methods.(îÓ÷)
+w
+java:S1450$"\Remove the "homeViewModel" field and declare it as a local variable in the relevant methods.(¿­¶üÿÿÿÿ
+n
+java:S1450)"XRemove the "tv_Nombre" field and declare it as a local variable in the relevant methods.(÷ğ££
+U
+java:S1161.":Add the "@Override" annotation above this method signature(î•Éğûÿÿÿÿ
+U
+java:S11176":Rename "nombre" which hides the field declared at line 38.(¬øÚ¹úÿÿÿÿ
+Q	java:S125c"<This block of commented-out lines of code should be removed.(Ì·Ü
+_
+java:S1874‚"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(½ÚÒæùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ı³ºÜøÿÿÿÿ
+L
+java:S1068$"1Remove this unused "homeViewModel" private field.(¿­¶üÿÿÿÿ
+E
+java:S1068&"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ
+D
+java:S1068'"/Remove this unused "bitmapImage" private field.(åƒßq
+C
+java:S1604C"(Make this anonymous inner class a lambda(ØÕÕ˜üÿÿÿÿ
+>
+java:S1604J"(Make this anonymous inner class a lambda(…›ƒ£
+C
+java:S1604X"(Make this anonymous inner class a lambda(ŒåÜÍùÿÿÿÿ

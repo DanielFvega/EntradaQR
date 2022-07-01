@@ -1,0 +1,29 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+x
+Happ/src/main/java/com/example/proyecto_aula/CaptureActivityPortrait.java,a\b\abc4a11aa144d2c0b930eda71016c3baf98daac4
+{
+Kapp/src/main/java/com/example/proyecto_aula/ui/gallery/GalleryFragment.java,c\f\cfdae6ff12770724da34eafbc7983189bad56611
+v
+Fapp/src/main/java/com/example/proyecto_aula/ui/home/HomeViewModel.java,f\5\f565161b7bc6cfb15ea7a2c0e6bbb49eddb61e62
+g
+7app/src/main/java/com/example/proyecto_aula/Inicio.java,3\9\3967025fb4a6fe9aba674b68619409b39c525e25
+h
+8app/src/main/java/com/example/proyecto_aula/Inicio2.java,a\3\a38a67500b6064d2b32249f3139f2f9432bc0764
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+j
+:app/src/main/java/com/example/proyecto_aula/generarQR.java,8\2\82725b3dc0f2837a7a84804ad176abd5247ba164
+u
+Eapp/src/main/java/com/example/proyecto_aula/ui/home/HomeFragment.java,8\5\85465df986e75a814deb1323e8a91fd5ad42af75
+g
+7app/src/main/java/com/example/proyecto_aula/QrView.java,a\2\a2d5f3e683c8d4f4c7f38853ef898afd2fcab1da
+n
+>app/src/main/java/com/example/proyecto_aula/QrViewInvtado.java,7\6\76427fb57bffa41fd20f0b6891a4a5c7e0656c2c
+i
+9app/src/main/java/com/example/proyecto_aula/invitado.java,4\4\44e8b24a3f9fffc7a3c8bbfc1a99222011536f78
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164

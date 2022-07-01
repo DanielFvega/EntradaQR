@@ -1,0 +1,16 @@
+
+k
+java:S1450"VRemove the "binding" field and declare it as a local variable in the relevant methods.(š”
+E
+java:S1874"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(“´ã 
+—
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûßã
+>
+java:S1604"(Make this anonymous inner class a lambda(„ÑñŒ
+C
+java:S1604B"(Make this anonymous inner class a lambda(ŒåÜÍùÿÿÿÿ
+C
+java:S1604a"(Make this anonymous inner class a lambda(•²Ê¸ûÿÿÿÿ
+C
+java:S1604i"(Make this anonymous inner class a lambda(ÓŠÆ¿ÿÿÿÿÿ

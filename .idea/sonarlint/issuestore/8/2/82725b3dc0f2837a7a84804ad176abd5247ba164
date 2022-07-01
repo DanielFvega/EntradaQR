@@ -1,0 +1,24 @@
+
+m	java:S116+"XRename this field "btn_generarqr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ºäµ
+i	java:S116,"TRename this field "et_nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯µş
+l	java:S116,"WRename this field "et_documento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯µş
+i	java:S116,"TRename this field "et_codigo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯µş
+n	java:S116-"TRename this field "img_verQR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´×Äİşÿÿÿÿ
+j	java:S116."PRename this field "Datos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äáÖÖøÿÿÿÿ
+_
+java:S1659,"IDeclare "et_documento" and all following declarations on a separate line.(Á¯µş
+t
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¨Œşÿÿÿÿ8ÅæàÊ–0
+
+java:S1186a"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦8ÍæàÊ–0
+X	java:S125g"<This block of commented-out lines of code should be removed.(Ê™‡ä8ÑæàÊ–0
+]	java:S125n"<This block of commented-out lines of code should be removed.(ÃŸ ºÿÿÿÿÿ8ÑæàÊ–0
+M
+java:S1874¯"/Remove this use of "setView"; it is deprecated.(‡é×Ø8ßæàÊ–0
+H
+java:S1172³"+Remove this unused method parameter "view".(›ºÑq8àæàÊ–0
+{
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç‡×øÿÿÿÿ8áæàÊ–0
+E
+java:S1604F"(Make this anonymous inner class a lambda(ÕáÑ¬8áæàÊ–0
+b	java:S101*"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿˜ˆú

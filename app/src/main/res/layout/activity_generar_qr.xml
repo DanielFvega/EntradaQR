@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/rojou"
+    android:orientation="vertical"
+    tools:context=".generarQR">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:onClick="volver"
+        android:padding="10dp"
+        android:src="@drawable/atras_icon">
+
+    </ImageView>
+
+    <LinearLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondito"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/alata"
+            android:gravity="center"
+            android:text="Por favor ingresa la siguiente información"
+            android:textColor="@color/white"
+            android:textSize="22sp"
+            android:textStyle="bold"></TextView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/datos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:background="#FFFFFF"
+            android:backgroundTint="#F1F1F1"
+            app:cardCornerRadius="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <EditText
+                    android:id="@+id/et_codigo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="@drawable/boder_editext"
+                    android:drawableLeft="@drawable/user_icon"
+                    android:fontFamily="@font/alata"
+                    android:hint="Codigo"
+                    android:imeOptions="actionNext"
+                    android:inputType="number"
+                    android:maxLength="6"
+                    android:padding="10dp"
+                    android:textColor="@color/rojou"
+                    android:paddingStart="10dp"
+                    android:textColorHint="#FF7B7F"
+                    android:textSize="20dp" />
+
+
+                <EditText
+                    android:id="@+id/et_nombre"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="@drawable/boder_editext"
+                    android:drawableLeft="@drawable/name_icon"
+                    android:fontFamily="@font/alata"
+                    android:hint="Nombre"
+                    android:inputType="text"
+                    android:maxLength="10"
+                    android:maxLines="1"
+                    android:textColor="@color/rojou"
+                    android:padding="10dp"
+                    android:textColorHint="#FF7B7F"
+                    android:textSize="20dp" />
+
+                <EditText
+                    android:id="@+id/et_documento"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="7dp"
+                    android:background="@drawable/boder_editext"
+                    android:drawableLeft="@drawable/documento_icon"
+                    android:fontFamily="@font/alata"
+                    android:hint="Documento"
+                    android:imeOptions="actionDone"
+                    android:inputType="number"
+                    android:maxLength="10"
+                    android:padding="10dp"
+                    android:textColor="@color/rojou"
+                    android:textColorHint="#FF7B7F"
+                    android:textSize="20dp" />
+
+
+                <Button
+                    android:id="@+id/btn_generador"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_marginStart="50dp"
+                    android:layout_marginEnd="50dp"
+                    android:backgroundTint="#fe0108"
+                    android:fontFamily="sans-serif-black"
+                    android:text="Entrar"
+                    android:textColor="#FFFFFF"
+                    android:textSize="15sp"
+                    app:cornerRadius="20dp"
+                    app:rippleColor="#A17E7F" />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/img_verQR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter" />
+
+
+</LinearLayout>
